@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-23T12:08:24 IST" name="Default suite" finished-at="2022-09-23T12:08:49 IST" duration-ms="24486">
+    <groups>
+    </groups>
+    <test started-at="2022-09-23T12:08:24 IST" name="Default test" finished-at="2022-09-23T12:08:49 IST" duration-ms="24486">
+      <class name="seleniumjava.testng2">
+        <test-method is-config="true" signature="lounchapp()[pri:0, instance:seleniumjava.testng2@55634720]" started-at="2022-09-23T12:08:25 IST" name="lounchapp" finished-at="2022-09-23T12:08:29 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchapp -->
+        <test-method signature="yahoo()[pri:0, instance:seleniumjava.testng2@55634720]" started-at="2022-09-23T12:08:29 IST" name="yahoo" finished-at="2022-09-23T12:08:48 IST" duration-ms="19731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:seleniumjava.testng2@55634720]" started-at="2022-09-23T12:08:48 IST" name="closeapp" finished-at="2022-09-23T12:08:49 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- seleniumjava.testng2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
